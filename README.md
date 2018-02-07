@@ -1,1 +1,1 @@
-# -superbowl-on-twitter-emoji-data-science
+# superbowl-twitter-emoji-data-science
